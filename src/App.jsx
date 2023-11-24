@@ -94,7 +94,7 @@ export default function Game() {
         <ol>{moves}</ol>
       </div>
     </div>
-    <a href="javascript:history.go(-1)">Click here to return to the home page.</a>
+    <a href="https://tolentino-react.netlify.app/">Click here to return to the home page.</a>
     </>
   );
 }

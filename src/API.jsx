@@ -20,7 +20,7 @@ export default function App() {
                 <h2><b>Status: </b>{posts.status}</h2>
                 <h2><b>Species: </b>{posts.species}</h2>
                 <h2><b>Gender: </b>{posts.gender}</h2>
-            <a href="javascript:history.go(-1)">Click here to return to the home page.</a>
+            <a href="https://toletino_react.netlify.app/">Click here to return to the home page.</a>
             <br/>
             <a href="">Alternatively, click here or reload the page to generate a new character.</a>
         </>
